@@ -369,7 +369,7 @@ ul.time li {
 	}
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-	@media only screen and (max-width: 480px) {
+	@media only screen and (max-width: 500px) {
 h1, .h1 { font-size: 30px;}
 h2, .h2 { font-size: 26px;}
 h3, .h3 { font-size: 20px;}
