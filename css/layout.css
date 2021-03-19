@@ -418,3 +418,28 @@ ul.time li {
 	margin-bottom: 3vh;
 }	
 	}
+@media only screen and (max-width: 370px) {
+        .header h1 {
+            font-size: 4rem;
+        }
+        .header h3 {
+            font-size: 2rem;
+        }
+        .countdown {
+            padding: 1vw 0;
+        }
+        .time span {
+            font-size: 3vh;
+            line-height: 68px;
+        }
+        ul.time li {
+            font-size: 3vh;
+            margin: 0 15px 15px;
+        }
+        .about h2 {
+            font-size: 3rem;
+        }
+        .about p {
+            font-size: 2rem;
+        }
+ }
