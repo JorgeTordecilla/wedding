@@ -1,7 +1,7 @@
 
 $(function() {
   var currentDate = new Date();
-  $('.countdown').countdown("2021/06/12/16:00:00", function(event)
+  $('.countdown').countdown("2021/06/12/15:00:00", function(event)
 	{
     $this = $(this);
     switch(event.type) {
